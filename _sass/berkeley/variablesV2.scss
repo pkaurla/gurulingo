@@ -11,11 +11,11 @@ roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji" !default;
 $serif-font-family: 'Source Serif 4', 'Georiga', 'Baskerville', serif;
 
 $berkeley-blue-old: #003262;
-$berkeley-blue: #002676; // rgb(0, 38, 118);
+$berkeley-blue: #014595; // rgb(0, 38, 118);
 
 // Colors
 $link-color: $berkeley-blue;
-$hover-focus-link-color: lighten($link-color, 20%);
+$hover-focus-link-color: lighten($link-color, 15%);
 
 // Layout
 $gutter-spacing: $sp-6;

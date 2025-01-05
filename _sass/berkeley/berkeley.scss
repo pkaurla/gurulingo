@@ -33,9 +33,15 @@ a:not([class]):hover {
   text-decoration-color: lighten($link-color, 20%);
 }
 
+.site-title {
+    font-weight: 500;
+    
+}
+
 h1, h2, h3, h4, h5, h6,
 .serif {
-  font-family: $serif-font-family;
+  //font-family: $serif-font-family;
+    font-family: sans-serif;
 }
 
 // Override JTD to be darker
@@ -110,3 +116,4 @@ a[target="_blank"]:not(.btn)::after {
 .lecture .subhead {
   @extend h3
 }
+

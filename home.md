@@ -9,7 +9,35 @@ seo:
   name: Berkeley Class Site
 ---
 
-# UC Berkeley Class Site Template
+ੴ ਵਾਹਿਗੁਰੂਜੀਕੀਫਤਹ ॥
+# GuruLingo: Understanding Gurbani
+
+## What is this course?
+
+“GuruLingo: Understanding Gurbani” is an opportunity for any student to begin building a direct understanding of Gurbani: the holy scriptures and Guru of the Sikh Panth, through collective learning and discussion. As students learning to understand Gurbani in the diaspora, away from Punjab, it is easy to become reliant on English Translations which, though helpful while learning, are not able to replace the magnificence and ineffability of reading and understanding Gurbani directly. This course is a 2-unit, student-run course at the University of California, Berkeley. 
+
+Through the course, you will gain an introductory level of understanding of Gurbāṇī Vyākaraṇ (grammar), build a large knowledge-base of the most common vocabulary used by the Gurus (the “Guru’s Lingo”), get a broad overview of the overarching themes of Guru Granth Sahib ji, and, last but not least, practice applying these ideas to directly contemplate on the Guru’s words.
+
+## Course Details
+
+### <u>Meeting Times</u>
+Lecture: Wednesdays  3:00-5:00 PM in _______ (location TBD)
+
+Office Hours: ___days __:00-__:30 PM in _______ (1.5 hours per week, details TBD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
