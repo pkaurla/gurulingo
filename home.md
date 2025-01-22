@@ -22,10 +22,17 @@ Through the course, you will gain an introductory level of understanding of Gurb
 <!--### <u>Lecture</u>-->
 Wednesdays  3:00-5:00 PM in Dwinelle 246
 
-University of California, Berkeley
-
 <!--Office Hours: ___days __:00-__:00 PM in _______ (1 hour per week, details TBD)-->
 
+## Schedule
+
+{% for module in site.modules %}
+  {{ module }}
+{% endfor %}
+
+...
+
+More coming soon!
 
 
 

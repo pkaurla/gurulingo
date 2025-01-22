@@ -43,7 +43,7 @@ This course will draw on many primary and secondary sources, written as well as 
 - Guru Granth Sahib ji
 - Dasam Granth
 - Bhai Gurdas ji’s Vaaran
-- An Introduction to the Sacred Language of the Sikhs by C. Shackle 
+- [An Introduction to the Sacred Language of the Sikhs by C. Shackle](https://ia800304.us.archive.org/2/items/AnIntroductionToTheSacredLanguageOfTheSikhs/AnIntroductionToTheSacredLanguageOfTheSikhs.pdf) 
     (will be referred to as ISLS here onwards)
 - Sikhi to the Max 
     (will be referred to as STTM here onwards)
