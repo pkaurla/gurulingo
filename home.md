@@ -6,7 +6,7 @@ nav_order: 0
 permalink: /
 seo:
   type: Course
-  name: Berkeley Class Site
+  name: GuruLingo
 ---
 
 ੴ ਵਾਹਿਗੁਰੂਜੀਕੀਫਤਹ ॥
@@ -19,11 +19,12 @@ seo:
 Through the course, you will gain an introductory level of understanding of Gurbāṇī Vyākaraṇ (grammar), build a large knowledge-base of the most common vocabulary used by the Gurus (the “Guru’s Lingo”), get a broad overview of the overarching themes of Guru Granth Sahib ji, and, last but not least, practice applying these ideas to directly contemplate on the Guru’s words.
 
 ## Course Details
+<!--### <u>Lecture</u>-->
+Wednesdays  3:00-5:00 PM in Dwinelle 246
 
-### <u>Meeting Times</u>
-Lecture: Wednesdays  3:00-5:00 PM in _______ (location TBD)
+University of California, Berkeley
 
-Office Hours: ___days __:00-__:30 PM in _______ (1.5 hours per week, details TBD)
+<!--Office Hours: ___days __:00-__:00 PM in _______ (1 hour per week, details TBD)-->
 
 
 

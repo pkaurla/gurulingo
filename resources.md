@@ -8,4 +8,4 @@ nav_order: 5
 
 # Resources
 
-Add links to course resources here
+Coming Soon!

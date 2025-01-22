@@ -1,5 +1,5 @@
 ---
-name: Jvala Singh
+name: Jvala Singh, PhD
 role: Instructor of Record
 email: jvalasingh@berkeley.edu
 photo: jvala-singh.jpg

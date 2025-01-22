@@ -1,7 +1,7 @@
 ---
 title: Documentation
 permalink: /docs/
-published: true
+published: false
 layout: page
 has_children: true
 ---
