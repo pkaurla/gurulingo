@@ -6,7 +6,7 @@ Wed Jan 22
 : **Readings**{: .label .label-red } [Week 2 Readings: ਜਪੁ ਜੀ ਸਾਹਿਬ]({% link _labs/reading02.md %})
 : **Mini-Quiz 1**{: .label .label-yellow } Studying Gurbani
   : Solutions
-: **Lecture**{: .label .label-blue } Structure of GGSJ, Remnote, ISLS Part I
+: **Lecture**{: .label .label-blue } [Structure of GGSJ, Remnote, ISLS Part I](https://docs.google.com/presentation/d/1ctR8V3hn--7mjM5F2WL6Z4R7I3cfs_rcn8MudpxLado/edit?usp=sharing)
   : Recording
 : **Vichaar**{: .label .label-purple } ਜਪੁ ਜੀ ਸਾਹਿਬ
   : Recording
