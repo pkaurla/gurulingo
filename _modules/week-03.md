@@ -6,7 +6,7 @@ Wed Feb 5
 : **Readings**{: .label .label-red } [Week 3 Readings: ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)]({% link _labs/reading03.md %})
 <!--: **Mini-Quiz 1**{: .label .label-yellow } Studying Gurbani-->
 <!--  : Solutions-->
-: **Lecture**{: .label .label-blue } ISLS Part II: Lessons 1 & 2
+: **Lecture**{: .label .label-blue } [ISLS Part II: Lessons 1](https://docs.google.com/presentation/d/1-s5GChPSgM_3JzMFdN5b93upYICZGBvtgBN8-nWkImI/edit?usp=sharing)
 : **Vichaar**{: .label .label-purple } ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)
 : **RemNote**{: .label .label-yellow } Week 3
 
