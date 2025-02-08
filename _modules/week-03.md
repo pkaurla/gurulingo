@@ -3,15 +3,14 @@ title: Week 03
 ---
 
 Wed Feb 5
-: **Readings**{: .label .label-red } [Week 3 Readings: ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)]({% link _labs/reading03.md %})
+: **Readings**{: .label .label-red } [Weeks 3 & 4 Readings: ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)]({% link _labs/reading03.md %})
 <!--: **Mini-Quiz 1**{: .label .label-yellow } Studying Gurbani-->
 <!--  : Solutions-->
-: **Lecture**{: .label .label-blue } [ISLS Part II: Lessons 1](https://docs.google.com/presentation/d/1-s5GChPSgM_3JzMFdN5b93upYICZGBvtgBN8-nWkImI/edit?usp=sharing)
-: **Vichaar**{: .label .label-purple } ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)
-: **RemNote**{: .label .label-yellow } Week 3
+: **Lecture**{: .label .label-blue } [ISLS Part 2 Lesson 1: Masculine Singular Nouns, Adjectives, Pronouns, Simple Sentences](https://docs.google.com/presentation/d/1-s5GChPSgM_3JzMFdN5b93upYICZGBvtgBN8-nWkImI/edit?usp=sharing)
+: **RemNote**{: .label .label-yellow } [Week 3](https://www.remnote.com/a/Week-3/67a726fd211187b4184afdfa)
 
-Mon Feb 10
-: **HW 3 due**{: .label .label-green } Worksheet 3
+Tue Feb 11
+: **HW 3 due**{: .label .label-green } [Worksheet 3: ISLS Part 2 Lesson 1](https://docs.google.com/document/d/10m5pVA7zQMXNiwKYzCdJpD_9g5YQTVA483K5m1voonk/edit?usp=sharing)
   : Solutions
 
 <!--examples below-->
