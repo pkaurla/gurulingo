@@ -5,10 +5,10 @@ title: Week 04
 Wed Feb 12
 : **Lecture**{: .label .label-blue } [ISLS Part 2 Lesson 2: Masculine Plural Nouns, Adjectives, Pronouns, the Verb To-Be](https://docs.google.com/presentation/d/1NN4ES5F4X7a62jzvgtKk82ixT6PdgYAp49PmH9W9dRw/edit?usp=sharing)
 : **Vichaar**{: .label .label-purple } ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)
-: **RemNote**{: .label .label-yellow } Week 4
+: **RemNote**{: .label .label-yellow } [Week 4](https://www.remnote.com/a/Week-4/67b101734d8693f206a59795)
 
 Tue Feb 18
-: **HW 4 due**{: .label .label-green } Worksheet 4
+: **HW 4 due**{: .label .label-green } [Worksheet 4: ISLS Part 2 Lesson 2](https://docs.google.com/document/d/1m9t2d3ohLAkfkaL-oQrchAMzkCNyr4o_5SxP9cwnzDc/edit?usp=sharing)
   : Solutions
 
 <!--examples below-->
