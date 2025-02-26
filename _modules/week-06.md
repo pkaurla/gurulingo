@@ -1,13 +1,14 @@
 ---
-title: Week 05
+title: Week 06
 ---
 
-Wed Feb 19
-: **Lecture**{: .label .label-blue } [ISLS Part 2 Lesson 3](https://docs.google.com/presentation/d/1kaFLOuhkrD6iKqJQMCuiWXxys-YekKAywL6NlpK5Ixs/edit?usp=sharing)
-: **RemNote**{: .label .label-yellow } Week 5
+Wed Feb 26
+: **Readings**{: .label .label-red } [Weeks 6 Readings: ਜਪੁ ਜੀ ਸਾਹਿਬ (Extension) & ਸੋਹਿਲਾ ਸਾਹਿਬ]({% link _labs/reading05.md %})
+: **Lecture**{: .label .label-blue } [ISLS Part 2 Lesson 4](https://docs.google.com/presentation/d/1uHWRqjwQhAICZG7IbNqfirq_eMO3Rnopalowf75jNHU/edit?usp=sharing)
+: **RemNote**{: .label .label-yellow } Week 6
 
-Tue Feb 25
-: **HW 5 due**{: .label .label-green } Worksheet 5
+Tue Mar 4
+: **HW 6 due**{: .label .label-green } Worksheet 6
   : Solutions
 
 <!--examples below-->
