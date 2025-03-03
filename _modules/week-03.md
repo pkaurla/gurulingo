@@ -3,10 +3,7 @@ title: Week 03
 ---
 
 Wed Feb 5
-: **Readings**{: .label .label-red } [Weeks 3 & 4 Readings: ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)]({% link _labs/reading03.md %})
-<!--: **Mini-Quiz 1**{: .label .label-yellow } Studying Gurbani-->
-<!--  : Solutions-->
-: **Lecture**{: .label .label-blue } [ISLS Part 2 Lesson 1: Masculine Singular Nouns, Adjectives, Pronouns, Simple Sentences](https://docs.google.com/presentation/d/1-s5GChPSgM_3JzMFdN5b93upYICZGBvtgBN8-nWkImI/edit?usp=sharing)
+: **Lecture 3**{: .label .label-red } [ISLS Part 2 Lesson 1: Masculine Singular Nouns, Adjectives, Pronouns, Simple Sentences](https://docs.google.com/presentation/d/1-s5GChPSgM_3JzMFdN5b93upYICZGBvtgBN8-nWkImI/edit?usp=sharing)
 : **RemNote**{: .label .label-yellow } [Week 3](https://www.remnote.com/a/Week-3/67a726fd211187b4184afdfa)
 
 Tue Feb 11

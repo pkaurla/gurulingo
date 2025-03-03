@@ -3,7 +3,7 @@ title: Week 04
 ---
 
 Wed Feb 12
-: **Lecture**{: .label .label-blue } [ISLS Part 2 Lesson 2: Masculine Plural Nouns, Adjectives, Pronouns, the Verb To-Be](https://docs.google.com/presentation/d/1NN4ES5F4X7a62jzvgtKk82ixT6PdgYAp49PmH9W9dRw/edit?usp=sharing)
+: **Lecture 4**{: .label .label-red } [ISLS Part 2 Lesson 2: Masculine Plural Nouns, Adjectives, Pronouns, the Verb To-Be](https://docs.google.com/presentation/d/1NN4ES5F4X7a62jzvgtKk82ixT6PdgYAp49PmH9W9dRw/edit?usp=sharing)
 : **Vichaar**{: .label .label-purple } ਜਪੁ ਜੀ ਸਾਹਿਬ (Part II)
 : **RemNote**{: .label .label-yellow } [Week 4](https://www.remnote.com/a/Week-4/67b101734d8693f206a59795)
 

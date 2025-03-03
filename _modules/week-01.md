@@ -3,11 +3,12 @@ title: Week 01
 ---
 
 Wed Jan 22
-: **Lecture**{: .label .label-blue } [Course Overview & Intro to Studying Gurbani](https://docs.google.com/presentation/d/1jGwOMXdMHr78R4UacAADHH2KTr6x9h-Niuh8qa10kq8/edit?usp=sharing)
+: **Lecture 1**{: .label .label-red } [Course Overview & Intro to Studying Gurbani](https://docs.google.com/presentation/d/1jGwOMXdMHr78R4UacAADHH2KTr6x9h-Niuh8qa10kq8/edit?usp=sharing)
 
 Mon Jan 27
 : **HW 1 due**{: .label .label-green } [Worksheet 1: Intros + Studying Gurbani](https://docs.google.com/document/d/14NpiAJAoG1mligyTr6r5sBkPjfjrq4g7QxeHYimXQGQ/edit?usp=sharing)
   : Solutions
+: **Readings**{: .label .label-blue } [Week 2 Readings: ਜਪੁ ਜੀ ਸਾਹਿਬ]({% link _labs/reading02.md %})
 
 <!--examples below-->
 

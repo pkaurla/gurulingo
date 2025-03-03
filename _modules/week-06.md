@@ -3,12 +3,12 @@ title: Week 06
 ---
 
 Wed Feb 26
-: **Lecture**{: .label .label-blue } [ISLS Part 2 Lesson 4: Stem and absolutive of verbs, present tense (consonant-stems)](https://docs.google.com/presentation/d/1uHWRqjwQhAICZG7IbNqfirq_eMO3Rnopalowf75jNHU/edit?usp=sharing)
+: **Lecture 6**{: .label .label-red } [ISLS Part 2 Lesson 4: Stem and absolutive of verbs, present tense (consonant-stems)](https://docs.google.com/presentation/d/1uHWRqjwQhAICZG7IbNqfirq_eMO3Rnopalowf75jNHU/edit?usp=sharing)
 : **Vichaar**{: .label .label-purple } ਸੋਹਿਲਾ ਸਾਹਿਬ
-: **RemNote**{: .label .label-yellow } Week 6
+: **RemNote**{: .label .label-yellow } [Week 6](https://www.remnote.com/a/Week-6/67c55d9630bb1d399f915ca5)
 
 Tue Mar 4
-: **HW 6 due**{: .label .label-green } Worksheet 6: ISLS Part 2 Lesson 4
+: **HW 6 due**{: .label .label-green } [Worksheet 6: ISLS Part 2 Lesson 4](https://docs.google.com/document/d/1s8oLdIOV-9SpHYO0jSukZTKcVGeGs0YKQV0y6ccHZ9g/edit?usp=sharing)
   : Solutions
 
 <!--examples below-->
