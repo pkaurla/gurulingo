@@ -2,12 +2,12 @@
 title: Week 08
 ---
 
-Wed Mar 5
-: **Lecture 8**{: .label .label-red } [ISLS Part 2 Lesson 6](https://docs.google.com/presentation/d/161_lq9NU2lsG-xkNBPSTLZYTKpeRv142g-HhdDNv5gY/edit?usp=sharing)
-: **RemNote**{: .label .label-yellow } [Week 7](https://www.remnote.com/a/Week-7/67cd49fc930e7814db3ae623)
+Wed Mar 19
+: **Lecture 8**{: .label .label-red } [ISLS Part 2 Lesson 6: ](https://docs.google.com/presentation/d/161_lq9NU2lsG-xkNBPSTLZYTKpeRv142g-HhdDNv5gY/edit?usp=sharing)
+: **RemNote**{: .label .label-yellow } [Week 8]
 
-Tue Mar 11
-: **HW 7 due**{: .label .label-green } [Worksheet 7: ISLS Part 2 Lesson 5](https://docs.google.com/document/d/1D2QI3aPcAJvIz5cG0sx-0-cpqiJjq4oLaeMIxeDLH-E/edit?usp=sharing)
+Tue Apr 1
+: **HW 8 due**{: .label .label-green } [Worksheet 8]
   : Solutions
 
 <!--examples below-->
