@@ -1,10 +1,14 @@
 ---
-title: Week 08
+title: Week 09
 ---
 
-Wed Mar 19
-: **Lecture 8**{: .label .label-red } [ISLS Part 2 Lesson 6: present tense (vowel-stems: short forms, in/transitive pairs, causative verbs) ](https://docs.google.com/presentation/d/161_lq9NU2lsG-xkNBPSTLZYTKpeRv142g-HhdDNv5gY/edit?usp=sharing)
-: **RemNote**{: .label .label-yellow } [Week 8](https://www.remnote.com/a/Week-8/67edb3cd79d54102c38381b5)
+Wed Apr 2
+: **Lecture 8**{: .label .label-red } [ISLS Part 2 Lesson 7: infinitive & gerundive, relative pronouns & clauses, correlative pairs ](https://docs.google.com/presentation/d/1jPaQ4vgUihq7_okmvKnTej7qXmHDdOaeuXVtZ4fsrIc/edit?usp=sharing)
+: **RemNote**{: .label .label-yellow } Week 9
+
+Tue Apr 8
+: **HW 8/9 due**{: .label .label-green } Worksheet 8/9
+  : Solutions
 
 <!--examples below-->
 
