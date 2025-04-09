@@ -3,7 +3,7 @@ title: Week 09
 ---
 
 Wed Apr 2
-: **Lecture 8**{: .label .label-red } [ISLS Part 2 Lesson 7: infinitive & gerundive, relative pronouns & clauses, correlative pairs ](https://docs.google.com/presentation/d/1jPaQ4vgUihq7_okmvKnTej7qXmHDdOaeuXVtZ4fsrIc/edit?usp=sharing)
+: **Lecture 9**{: .label .label-red } [ISLS Part 2 Lesson 7: infinitive & gerundive, relative pronouns & clauses, correlative pairs ](https://docs.google.com/presentation/d/1jPaQ4vgUihq7_okmvKnTej7qXmHDdOaeuXVtZ4fsrIc/edit?usp=sharing)
 : **RemNote**{: .label .label-yellow } Week 9
 
 Tue Apr 8

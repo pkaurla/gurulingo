@@ -3,7 +3,7 @@ title: Week 10
 ---
 
 Wed Apr 9
-: **Lecture 10**{: .label .label-red } [ISLS Part 2 Lesson 8 ](https://docs.google.com/presentation/d/1ljgBoHwtEXP53tCSNVPzD5lXQrvd63yJe8p2ZGTFx2s/edit?usp=sharing)
+: **Lecture 10**{: .label .label-red } [ISLS Part 2 Lesson 8: oblique case of pronouns, post-positions ](https://docs.google.com/presentation/d/1ljgBoHwtEXP53tCSNVPzD5lXQrvd63yJe8p2ZGTFx2s/edit?usp=sharing)
 : **RemNote**{: .label .label-yellow } Week 10
 
 Tue Apr 15
