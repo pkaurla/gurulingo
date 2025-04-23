@@ -16,8 +16,12 @@ Temporary Lecture Links:
 
 **Lecture 10**{: .label .label-red } [ISLS Part 2 Lesson 8: oblique case of pronouns, post-positions ](https://docs.google.com/presentation/d/1ljgBoHwtEXP53tCSNVPzD5lXQrvd63yJe8p2ZGTFx2s/edit?usp=sharing)
 
-**RemNote**{: .label .label-yellow } Week 10
+<!--**RemNote**{: .label .label-yellow } Week 10-->
 
 **Lecture 11**{: .label .label-red } [ISLS Part 2 Lesson 9: oblique case of nouns & adjectives, oblique infinitive ](https://docs.google.com/presentation/d/18iUAjOWvP39jq6FER1fZVrm_5lobAi0Ei1xeaeoR9mk/edit?usp=sharing)
 
-**RemNote**{: .label .label-yellow } Week 11
+<!--**RemNote**{: .label .label-yellow } Week 11-->
+
+**Lecture 12**{: .label .label-red } [ISLS Part 2 Lesson 10: possessive & adjectival postpositions, verbal agent, extended absolutive ](https://docs.google.com/presentation/d/1CYFT63x2kP-gDxFrxI6jwuB8yP8CWQ6eZO0zq_leGko/edit?usp=sharing)
+
+<!--**RemNote**{: .label .label-yellow } Week 12-->
